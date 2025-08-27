@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="./Logo.png" alt="BizuTech Logo" width="200">
+  <img src="./logo_marca-removebg-preview.png" alt="BizuTech Logo" width="200">
 </p>
 
 <h1 align="center">Bem-vindo(a) à BizuTech!</h1>
