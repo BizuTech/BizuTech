@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="./logo_marca-removebg-preview.png" alt="BizuTech Logo" width="200">
+  <img src="./Logo.png" alt="BizuTech Logo" width="200">
 </p>
 
 <h1 align="center">Bem-vindo(a) à BizuTech!</h1>
@@ -80,3 +80,15 @@ Estamos sempre explorando e utilizando as melhores tecnologias para entregar sol
 <p align="center">
   Feito com ❤️ pela BizuTech
 </p>
+
+
+
+## Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BizuTech&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizuTech&layout=compact&theme=dark" alt="Top Linguagens"/>
+</p>
+
+---
+
