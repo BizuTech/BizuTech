@@ -29,20 +29,6 @@ Na BizuTech, oferecemos uma gama completa de serviços para atender às suas nec
 - 📈 **Análise de Dados**: Transformamos dados brutos em insights valiosos para tomadas de decisão estratégicas.
 - 💡 **Criação de Dashboards e Insights**: Visualização de dados clara e intuitiva para acompanhar o desempenho e identificar oportunidades.
 
----
-
-
-
-## Nossa Equipe
-
-Conheça os fundadores da BizuTech, dedicados a trazer as melhores soluções em tecnologia para você:
-
-- **Higor Zenaide**: Co-fundador e especialista em Hardware, e desenvolvimento back-end.
-- **Tiago Nunes**: Co-fundador e especialista em Desenvolvimento Web, Análise de Dados.
-
----
-
-
 
 ## Contato
 
