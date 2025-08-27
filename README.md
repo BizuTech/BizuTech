@@ -72,6 +72,9 @@ Estamos sempre explorando e utilizando as melhores tecnologias para entregar sol
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
+## Minha Atividade no GitHub
+
+[![Animação da Cobrinha](https://github.com/BizuTech-github/BizuTech-github/blob/output/github-contribution-grid-snake.svg )](https://github.com/BizuTech-github/BizuTech-github/blob/output/github-contribution-grid-snake.svg )
 
 ---
 
