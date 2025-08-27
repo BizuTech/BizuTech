@@ -37,8 +37,8 @@ Na BizuTech, oferecemos uma gama completa de serviços para atender às suas nec
 
 Conheça os fundadores da BizuTech, dedicados a trazer as melhores soluções em tecnologia para você:
 
-- **Higor Zenaide**: Co-fundador e especialista em [Área de especialização do Higor, ex: Hardware, Redes, etc.].
-- **Tiago Nunes**: Co-fundador e especialista em [Área de especialização do Tiago, ex: Desenvolvimento Web, Análise de Dados, etc.].
+- **Higor Zenaide**: Co-fundador e especialista em Hardware, e desenvolvimento back-end.
+- **Tiago Nunes**: Co-fundador e especialista em Desenvolvimento Web, Análise de Dados.
 
 ---
 
