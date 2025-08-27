@@ -74,7 +74,8 @@ Estamos sempre explorando e utilizando as melhores tecnologias para entregar sol
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
 ## Minha Atividade no GitHub
 
-[![Animação da Cobrinha](https://raw.githubusercontent.com/Bizutech/Bizutech/output/github-contribution-grid-snake.svg )](https://github.com/Bizutech/Bizutech/blob/output/github-contribution-grid-snake.svg )
+[![Animação da Cobrinha](https://raw.githubusercontent.com/BizuTech/BizuTech/output/github-contribution-grid-snake.svg )](https://github.com/BizuTech/BizuTech/blob/output/github-contribution-grid-snake.svg )
+
 
 ---
 
